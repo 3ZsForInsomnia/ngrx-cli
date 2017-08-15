@@ -1,0 +1,16 @@
+{
+  "name": "ngrx-cli",
+  "version": "1.0.0",
+  "description": "Ngrx scaffolding tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "help"
+  },
+  "keywords": [
+    "ngrx",
+    "angular",
+    "ng"
+  ],
+  "author": "Zach Levine",
+  "license": "ISC"
+}
